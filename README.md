@@ -1,4 +1,4 @@
-# co68b44cdb546c1b10b4b4134
+# A game scoreboard
 
 ## About Scrimba
 
