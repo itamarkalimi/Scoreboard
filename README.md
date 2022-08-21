@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # co68b44cdb546c1b10b4b4134
 
 ## About Scrimba
@@ -11,3 +12,7 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+=======
+# A game scoreboard
+A javascript game scoreboard, click on the buttons to add points to the scoreboard
+>>>>>>> 635acec7a6ee6901b5f8ca704aa98651c5f3a7b5
